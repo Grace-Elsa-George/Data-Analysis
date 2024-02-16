@@ -26,6 +26,8 @@ The dataset contained a record of: Accident Date/time, severity, location, vehic
 
 ### * Data cleaning and Transformation
 
+The data analysis is done in MS Excel and used pivot tables and visualizations.
+
 * Data Cleaning
 
 In this phase, the dataset is thoroughly studied and ensured the accuracy and reliability of the data for further analysis. The data is cleaned by removing inconsistencies, errors, and duplicates. Example - replace the word “fetal” with “fatal” in the severity column.
