@@ -216,9 +216,9 @@ cyclistic_final_data_v2 %>%
 
 ### - SHARE
 
-Visualizations are useful to share the findings and key insights of the analysis to the stake holders. Tableau is used to create the visualizations and dashboard. 
+Visualizations are useful to share the findings and key insights of the analysis to the stake holders. Tableau and Power BI are used to create the visualizations and dashboard. 
 
-Initially, the cleaned dataset is loaded into Tableau in a new workbook. Then variety of charts are created.
+Initially, the cleaned dataset is loaded into Tableau/PowerBI in a new workbook. Then variety of charts are created.
 
 - KPIs are created using cards.
 - Customer relationship with rides and ride length are depicted using donut charts.
